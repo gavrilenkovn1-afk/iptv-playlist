@@ -29,18 +29,6 @@ https://s04.watcher.uz/81/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 https://s04.watcher.uz/27/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTI4NDkxLCJsb2dpbiI6ImhlLTIyNTk2MDQiLCJ0ZW1wb3JhcnkiOmZhbHNlLCJpc19vYXV0aCI6ZmFsc2UsImNyZWF0ZWRfdGltZSI6MTcxMDA1Mzg0N30.bQBn6Y93IB08Odi55vf8t1wjwVngl4hP2CGq5VSthlA:43
 #EXTINF:0,Ретро ТВ
 https://s05.watcher.uz/39/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTI4NDkxLCJsb2dpbiI6ImhlLTIyNTk2MDQiLCJ0ZW1wb3JhcnkiOmZhbHNlLCJpc19vYXV0aCI6ZmFsc2UsImNyZWF0ZWRfdGltZSI6MTcwMzY2MDg1NX0.Ecih_0LJxlzViN7mqwPbmgwRQbxAIYSrR7LfGLVSaNU:55
-#EXTINF:0,ТВ-3
-https://edge02d.mediavitrina.ru/hls-livef8/tv3/tracks-v4a1/mono.m3u8?token=v2.NmW-kuqGJGO_Ri6TvjZ-4LPNkD5dwrI90voXtmpP67Q.Mo66bHDrYTyRgjukR-g_OW6GvGmKHwTovnXn-Pdu5TE.1776062547.2c79278dd68acde0af4ef7a655e1da32
-#EXTINF:0,Домашний 
-https://edge02d.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v4a1/mono.m3u8?token=v2.R265xcR2WVSw72eh9ZE06_V5xJz_Rfc4ylx3QzEqC3Y.LMk_4VItn0R9WSfApbz6o7CfT9rHUBPpbBA1D9xWaEU.1776062440.0093510ad404bdb70f93cb0d6c362e50
-#EXTINF:0,ТНТ
-https://edge01d.mediavitrina.ru/hls-livef8/tnt/tracks-v4a1/mono.m3u8?token=v2.RDV315pBRulX0870vqR9SabwfeE0yrnTJAb9GHC5gDE.lWsGkaC-6rL5VMFKDt89rpVj8MPBSlm63zISELVlo0Q.1776062007.abb046be4488f0a4a75ad283abe62534
-#EXTINF:0,СТС
-https://edge01r.mediavitrina.ru/hls-livef1/ctc/tracks-v4a1/mono.m3u8?token=v2.v1tTeLfrwnKX-KSNtzR4Eic_IG375J3Qbtv2TgA7on4.lFJhT7X9t35XYHwfZxPJpuq35DNi9LdM8EuFpnSQYgg.1776062350.1ae33412ad46e095a70680b18052da0e
-#EXTINF:0,РЕН-ТВ HD
-https://edge02d.mediavitrina.ru/hls-livef1/ren-tv/tracks-v4a1/mono.m3u8?token=v2.t8FYodCXN-ZQYtPWMzQ1U-TEaIEM_Stx3tzGUUkh8sM.azcIzb5GNzwwHjJuO0s6CxervdNFG4BSlTHCkg7L1xU.1776062114.ae9574726e8b82eb269104b72c7a2a7a
-#EXTINF:0,Пятый канал HD
-https://edge02d.mediavitrina.ru/hls-livef7/5tv/tracks-v4a1/mono.m3u8?token=v2.7smby3FQewucAhhFA4mxwTsQWMc4pnddCYZNASdxmLY.dcNXAxh4MMhya2GU9aWQ8f5n4eNEXEFlYzZIy1Gif1I.1776062226.ab08bf9902419fbc46a26771f4410953
 #EXTINF:0,ТВЦ international
 https://s05.watcher.uz/41/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTI4NDkxLCJsb2dpbiI6ImhlLTIyNTk2MDQiLCJ0ZW1wb3JhcnkiOmZhbHNlLCJpc19vYXV0aCI6ZmFsc2UsImNyZWF0ZWRfdGltZSI6MTcwMzY2MDg1NX0.Ecih_0LJxlzViN7mqwPbmgwRQbxAIYSrR7LfGLVSaNU:57
 #EXTINF:0,Наше Новое Кино
@@ -71,24 +59,6 @@ https://s03.watcher.uz/49/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 https://s06.watcher.uz/155/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTI4NDkxLCJsb2dpbiI6ImhlLTIyNTk2MDQiLCJ0ZW1wb3JhcnkiOmZhbHNlLCJpc19vYXV0aCI6ZmFsc2UsImNyZWF0ZWRfdGltZSI6MTcwMzY2MDg1NX0.Ecih_0LJxlzViN7mqwPbmgwRQbxAIYSrR7LfGLVSaNU:155
 #EXTINF:0,24 Техно
 https://s05.watcher.uz/29/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTI4NDkxLCJsb2dpbiI6ImhlLTIyNTk2MDQiLCJ0ZW1wb3JhcnkiOmZhbHNlLCJpc19vYXV0aCI6ZmFsc2UsImNyZWF0ZWRfdGltZSI6MTcwMzY2MDg1NX0.Ecih_0LJxlzViN7mqwPbmgwRQbxAIYSrR7LfGLVSaNU:45
-#EXTINF:0,viju TV1000 action
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:0,viju TV1000
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:0,viju TV1000 Русское кино
-https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:0,viju Explore
-https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:0,viju History
-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:0,viju Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:0,Animal Planet
-https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
-#EXTINF:0,Discovery Channel
-https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
-#EXTINF:0,История
-https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
 #EXTINF:0,Наука
 https://s06.watcher.uz/141/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTI4NDkxLCJsb2dpbiI6ImhlLTIyNTk2MDQiLCJ0ZW1wb3JhcnkiOmZhbHNlLCJpc19vYXV0aCI6ZmFsc2UsImNyZWF0ZWRfdGltZSI6MTcwODU4MzgwMn0.NvJ51arsFKKXaiHWVDfNhNKQ348H76SUcUDGRJxSPm0:141
 #EXTINF:0,Zoo TV
